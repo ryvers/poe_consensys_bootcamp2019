@@ -36,7 +36,7 @@ https://github.com/ipfs/go-ipfs#install
 
 #### Running local development environment
 1. Run ganache-cli in terminal or CLI to setup local & private blockchain, leave it running
-2. In another terminal, start your IPFS node, if you are well prepared command: `ipfs daemon` should be enough, leave it running
+2. In another terminal, start your IPFS node, if you are well prepared command: `ipfs daemon` should be enough, leave it running (if you are facing problems with IPFS take a look at the troubleshooting section below, check documentation or contact me directly)
 3. In another terminal, clone repo
 4. Enter the main folder and run command: `npm install`
 5. Run `truffle compile`
